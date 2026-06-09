@@ -1,0 +1,11 @@
+<customapiresponseproperty uniquename="ovg_fetchxmlresponse">
+  <description default="OVIGI Fetch XML response">
+    <label description="OVIGI Fetch XML response" languagecode="3082" />
+  </description>
+  <displayname default="OVIGI Fetch XML response">
+    <label description="OVIGI Fetch XML response" languagecode="3082" />
+  </displayname>
+  <iscustomizable>1</iscustomizable>
+  <name>ovg_fetchxmlresponse</name>
+  <type>4</type>
+</customapiresponseproperty>
