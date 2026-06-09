@@ -1,0 +1,65 @@
+<ImportExportXml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" OrganizationVersion="9.2.26052.150" OrganizationSchemaType="Standard" CRMServerServiceabilityVersion="9.2.26052.00150">
+  <Entities></Entities>
+  <Roles></Roles>
+  <Workflows></Workflows>
+  <FieldSecurityProfiles></FieldSecurityProfiles>
+  <Templates />
+  <EntityMaps />
+  <EntityRelationships />
+  <OrganizationSettings />
+  <optionsets />
+  <CustomControls />
+  <SolutionPluginAssemblies>
+    <PluginAssembly FullName="OVIGI.FetchXmlQuery, Version=1.0.0.0, Culture=neutral, PublicKeyToken=29c783c1a600e726" PluginAssemblyId="2c16a053-3c0e-46a7-9898-8ea43470a555" CustomizationLevel="1">
+      <IsolationMode>2</IsolationMode>
+      <SourceType>0</SourceType>
+      <IntroducedVersion>1.0.0.0</IntroducedVersion>
+      <FileName>/PluginAssemblies/OVIGIFetchXmlQuery-2C16A053-3C0E-46A7-9898-8EA43470A555/OVIGIFetchXmlQuery.dll</FileName>
+      <PluginTypes>
+        <PluginType AssemblyQualifiedName="ovg_FetchXmlQuery.ovg_FetchXmlQuery, OVIGI.FetchXmlQuery, Version=1.0.0.0, Culture=neutral, PublicKeyToken=29c783c1a600e726" PluginTypeId="4a709c55-bf57-4d13-99a5-213b3bfc0441" Name="ovg_FetchXmlQuery.ovg_FetchXmlQuery">
+          <FriendlyName>591feabc-dedb-4812-9e7f-4c666d010b50</FriendlyName>
+        </PluginType>
+      </PluginTypes>
+    </PluginAssembly>
+  </SolutionPluginAssemblies>
+  <EntityDataProviders />
+  <CanvasApps>
+    <CanvasApp>
+      <Name>ovg_demodeovgfetchxmlquery_243f2</Name>
+      <AppVersion>2026-06-09T15:21:04Z</AppVersion>
+      <Status>Ready</Status>
+      <CreatedByClientVersion>3.26054.13.0</CreatedByClientVersion>
+      <MinClientVersion>3.26054.13.0</MinClientVersion>
+      <Tags>{"primaryDeviceWidth":"1366","primaryDeviceHeight":"768","supportsPortrait":"true","supportsLandscape":"true","primaryFormFactor":"Tablet","showStatusBar":"false","publisherVersion":"3.26054.13","minimumRequiredApiVersion":"2.2.0","hasComponent":"false","hasUnlockedComponent":"false","isUnifiedRootApp":"false","m365CopilotSettingValue":"0","coauthoringEnabled":"true","multipleWritersEnabled":"true","acceptedCoauthoringTerms":"true","sienaVersion":"20260607T210256Z-3.26054.13.0"}</Tags>
+      <IsCdsUpgraded>0</IsCdsUpgraded>
+      <GalleryItemId xsi:nil="true"></GalleryItemId>
+      <BackgroundColor>RGBA(0,176,240,1)</BackgroundColor>
+      <DisplayName>Demo de ovg_fetchxmlquery</DisplayName>
+      <Description xsi:nil="true"></Description>
+      <CommitMessage xsi:nil="true"></CommitMessage>
+      <Publisher xsi:nil="true"></Publisher>
+      <AuthorizationReferences>[]</AuthorizationReferences>
+      <ConnectionReferences>{}</ConnectionReferences>
+      <DatabaseReferences>{"default.cds":{"databaseDetails":{"referenceType":"Environmental","environmentName":"default.cds","overrideValues":{"status":"NotSpecified","environmentVariableName":""}},"dataSources":{"environment_39a902ba":{"entitySetName":"Environment","logicalName":"environment_39a902ba"}}}}</DatabaseReferences>
+      <AppComponents>[]</AppComponents>
+      <AppComponentDependencies>[]</AppComponentDependencies>
+      <CanConsumeAppPass>1</CanConsumeAppPass>
+      <CanvasAppType>0</CanvasAppType>
+      <BypassConsent>0</BypassConsent>
+      <AdminControlBypassConsent>0</AdminControlBypassConsent>
+      <EmbeddedApp xsi:nil="true"></EmbeddedApp>
+      <IntroducedVersion>1.0</IntroducedVersion>
+      <CdsDependencies>{"cdsdependencies":[]}</CdsDependencies>
+      <IsCustomizable>1</IsCustomizable>
+      <BackgroundImageUri>/CanvasApps/ovg_demodeovgfetchxmlquery_243f2_BackgroundImageUri</BackgroundImageUri>
+      <DocumentUri>/CanvasApps/ovg_demodeovgfetchxmlquery_243f2_DocumentUri.msapp</DocumentUri>
+      <AdditionalUris>
+        <AdditionalUri>/CanvasApps/ovg_demodeovgfetchxmlquery_243f2_AdditionalUris0_identity.json</AdditionalUri>
+      </AdditionalUris>
+    </CanvasApp>
+  </CanvasApps>
+  <Languages>
+    <Language>3082</Language>
+    <Language>1033</Language>
+  </Languages>
+</ImportExportXml>

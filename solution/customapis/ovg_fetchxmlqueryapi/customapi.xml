@@ -1,0 +1,18 @@
+<customapi uniquename="ovg_fetchxmlqueryapi">
+  <allowedcustomprocessingsteptype>0</allowedcustomprocessingsteptype>
+  <bindingtype>0</bindingtype>
+  <description default="Permite realizar consultas Fetch Xml a tablas de dataverse del entorno actual, pensado, para poder lanzarse desde Power Fx (Canvas y Custom pages)">
+    <label description="Permite realizar consultas Fetch Xml a tablas de dataverse del entorno actual, pensado, para poder lanzarse desde Power Fx (Canvas y Custom pages)" languagecode="3082" />
+  </description>
+  <displayname default="OVIGI Fetch XML Query API">
+    <label description="OVIGI Fetch XML Query API" languagecode="3082" />
+  </displayname>
+  <iscustomizable>1</iscustomizable>
+  <isfunction>0</isfunction>
+  <isprivate>0</isprivate>
+  <name>ovg_fetchxmlqueryapi</name>
+  <plugintypeid>
+    <plugintypeexportkey>4a709c55-bf57-4d13-99a5-213b3bfc0441</plugintypeexportkey>
+  </plugintypeid>
+  <workflowsdkstepenabled>0</workflowsdkstepenabled>
+</customapi>

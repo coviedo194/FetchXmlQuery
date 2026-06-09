@@ -1,0 +1,12 @@
+<customapirequestparameter uniquename="ovg_fetchxmlquery">
+  <description default="OVIGI FetchXml query">
+    <label description="OVIGI FetchXml query" languagecode="3082" />
+  </description>
+  <displayname default="OVIGI FetchXml query">
+    <label description="OVIGI FetchXml query" languagecode="3082" />
+  </displayname>
+  <iscustomizable>1</iscustomizable>
+  <isoptional>0</isoptional>
+  <name>ovg_fetchxmlquery</name>
+  <type>10</type>
+</customapirequestparameter>
